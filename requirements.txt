@@ -1,0 +1,4 @@
+pyttsx
+SpeechRecognition
+vaderSentiment
+apiai
